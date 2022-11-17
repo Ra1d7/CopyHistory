@@ -1,0 +1,14 @@
+C:\Users\Raid7\source\repos\CopyHistory\CopyHistory\bin\Release\CopyHistory.exe.config
+C:\Users\Raid7\source\repos\CopyHistory\CopyHistory\bin\Release\CopyHistory.exe
+C:\Users\Raid7\source\repos\CopyHistory\CopyHistory\bin\Release\CopyHistory.pdb
+C:\Users\Raid7\source\repos\CopyHistory\CopyHistory\bin\Release\MetroFramework.Design.dll
+C:\Users\Raid7\source\repos\CopyHistory\CopyHistory\bin\Release\MetroFramework.dll
+C:\Users\Raid7\source\repos\CopyHistory\CopyHistory\bin\Release\MetroFramework.Fonts.dll
+C:\Users\Raid7\source\repos\CopyHistory\CopyHistory\obj\Release\CopyHistory.Form1.resources
+C:\Users\Raid7\source\repos\CopyHistory\CopyHistory\obj\Release\CopyHistory.Properties.Resources.resources
+C:\Users\Raid7\source\repos\CopyHistory\CopyHistory\obj\Release\CopyHistory.csproj.GenerateResource.cache
+C:\Users\Raid7\source\repos\CopyHistory\CopyHistory\obj\Release\CopyHistory.csproj.CoreCompileInputs.cache
+C:\Users\Raid7\source\repos\CopyHistory\CopyHistory\obj\Release\CopyHistory.csproj.CopyComplete
+C:\Users\Raid7\source\repos\CopyHistory\CopyHistory\obj\Release\CopyHistory.exe
+C:\Users\Raid7\source\repos\CopyHistory\CopyHistory\obj\Release\CopyHistory.pdb
+C:\Users\Raid7\source\repos\CopyHistory\CopyHistory\obj\Release\CopyHistory.csprojAssemblyReference.cache
