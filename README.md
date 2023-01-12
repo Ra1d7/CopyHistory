@@ -4,5 +4,5 @@ A simple application that stores your clipboard history and any other text and s
 copy it
 
 
-https://j.gifs.com/lRglqg.gif
+![Showcase](https://j.gifs.com/lRglqg.gif)
 
